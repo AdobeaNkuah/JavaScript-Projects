@@ -1,2 +1,2 @@
 # JavaScript-Projects
-[Google GUI Video Demononstration](https://youtu.be/ZfzvH0IIWos)
+[Google GUI Replica Video Demonstration](https://youtu.be/ZfzvH0IIWos)
