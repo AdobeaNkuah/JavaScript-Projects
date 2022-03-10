@@ -1,15 +1,3 @@
-// Features
-// Light Mode, Dark Mode
-// Randomly generates new mazes to solve
-// timer
-// title
-// line that follows cursor
-// solve button: automatic solver that demonstrates the solution
-// create maze button
-// reset button
-// Implements Depth-first Search and recursive backtracking
-
-//CHANGE OF PLAN, FOCUS ON JUST THE MAZE GENERATION AND CSS AND MOVE ON
 
 let maze = document.querySelector(".maze");
 let ctx = maze.getContext("2d");
