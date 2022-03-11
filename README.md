@@ -1,7 +1,7 @@
 # JavaScript-Projects
 
 
-##Recursive Maze Generation
+##Recursive Maze Generation##
 
 **Demonstration**
 
