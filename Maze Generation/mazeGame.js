@@ -1,4 +1,3 @@
-
 let maze = document.querySelector(".maze");
 let ctx = maze.getContext("2d");
 let currentCell;
@@ -151,7 +150,7 @@ class Cell {
         let x = (this.numCol * this.size) / numCol + 1;
         let y = (this.numRow * this.size) / numRow + 1;
 
-        ctx.fillStyle = "purple";
+        ctx.fillStyle = "red";
         ctx.fillRect(x, y, this.size/numCol - 3, this.size/numCol - 3);
     }
 
@@ -159,7 +158,7 @@ class Cell {
         let x = (this.numCol * size)/numCol;
         let y = (this.numRow * size)/numRow;
         ctx.strokeStyle = '#ffffff';
-        ctx.fillStyle = "black"; //highlight current cell
+        ctx.fillStyle = "black"; 
         ctx.lineWidth = 2;
         //ctx.lineCap = 'square';
         
