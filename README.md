@@ -11,8 +11,7 @@
 ![General Search](https://user-images.githubusercontent.com/48498666/157908060-0a7fa00a-9cf4-4ecb-b9ef-11487760f6a3.png) 
   
   
-<space>
-<space>
+
 
 **Images Search**
 <space>
