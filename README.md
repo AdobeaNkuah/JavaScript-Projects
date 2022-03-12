@@ -1,4 +1,4 @@
-# JavaScript-Projects
+# JavaScript Projects
 
 
 ## Recursive Maze Generation ##
